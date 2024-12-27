@@ -1,3 +1,5 @@
+// https://rust-book.cs.brown.edu/ch03-01-variables-and-mutability.html
+
 fn main() {
     // variables are immutable by default
     // use mut to make them mutable

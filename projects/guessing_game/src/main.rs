@@ -2,6 +2,7 @@ use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
 
+// https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
 fn main() {
     println!("Guess the number!");
 
